@@ -191,6 +191,6 @@ Enable by default:
 
 ## Related Repositories
 
-- [CMD Repo]([https://github.com/username/cmd-repo](https://github.com/ilisho/blender-cmd-rendering-cheatsheet)) — additional CMD shortcuts for batch render in Blender
+- [CMD Repo](https://github.com/ilisho/blender-cmd-rendering-cheatsheet) — additional CMD shortcuts for batch render in Blender 
 
 
