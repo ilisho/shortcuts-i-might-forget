@@ -1,6 +1,3 @@
-# shortcuts-i-might-forget
-A compact and practical collection of keyboard shortcuts, commands, and tips for Blender, Plasticity, DaVinci Resolve, ComfyUI, Windows, Linux, WSL, and common productivity tools. Designed to speed up your workflow and keep frequently used operations at your fingertips.
-
 # ⚡ Shortcut Cheat Sheet
 
 A compact collection of useful shortcuts, tips, and workflows for daily production.
