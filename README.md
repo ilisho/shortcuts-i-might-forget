@@ -187,3 +187,10 @@ Enable by default:
 ## 💡 General Tips
 
 - Eyes open twice as fast as they close (animation timing rule)
+
+
+## Related Repositories
+
+- [CMD Repo]([https://github.com/username/cmd-repo](https://github.com/ilisho/blender-cmd-rendering-cheatsheet)) — additional CMD shortcuts for batch render in Blender
+
+
