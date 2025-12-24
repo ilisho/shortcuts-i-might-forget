@@ -107,6 +107,7 @@ Metallic values above zero may cause very dark textures.
 - **Ctrl + Y** — Select all clips before playhead
 - **Ctrl + Shift + <** — Move clip left and swap
 - **Ctrl + Shift + >** — Move clip right and swap
+- **(clip shoul be deselected in UI) Alt + left click + move** — Duplicate only selected part of linked clip
 
 ---
 
