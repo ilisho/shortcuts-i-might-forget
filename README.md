@@ -8,6 +8,7 @@ A compact collection of useful shortcuts, tips, and workflows for daily producti
 
 - [Blender](#-blender)
 - [Plasticity](#-plasticity)
+- [Substance Painter](#-substance-painter)
 - [DaVinci Resolve](#-davinci-resolve)
 - [ComfyUI](#-comfyui)
 - [Windows](#-windows)
@@ -99,6 +100,17 @@ Metallic values above zero may cause very dark textures.
   - **Tab** — Switch direction  
   - **Shift + Scroll** — Change cut count
 
+---
+
+## 🟢 Substance Painter
+
+- **Alt + Shift + drag LMB** — Align camera view 
+- **Ctrl + move right\left RMB** — Brush size
+- **Ctrl + move up\down RMB** — Brush hardness
+- **Ctrl + move right\left LMB** — Brush flow
+- **Ctrl + move up\down LMB** — Brush rotation
+- **Shift + move up\down RMB** — HDRI rotation
+- **Shift + move up\down LMB** — Draw straight line
 ---
 
 ## 🟣 DaVinci Resolve
