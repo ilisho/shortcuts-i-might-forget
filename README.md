@@ -43,6 +43,7 @@ A compact collection of useful shortcuts, tips, and workflows for daily producti
 
 - **Ctrl + E → H** — Clear Sharp edges
 - **Ctrl + H** — Hook to object
+- **Select edge/vert + V** — disconnect edge/vert
 
 ### Object / Pose Mode
 
