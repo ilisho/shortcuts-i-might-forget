@@ -75,6 +75,11 @@ To bake from high-poly to low-poly with different UVs:
 
 Metallic values above zero may cause very dark textures.
 
+### Blender MacOS location Tip
+
+in finder press **CMD + SHIFT + G** in following window paste this `~/Library/Application Support/Blender/5.0(or your version)/config`
+
+that is a config folder that contain all blender configurations. This folder can be saved as a backup
 
 ---
 
