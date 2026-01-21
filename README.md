@@ -81,6 +81,10 @@ in finder press **CMD + SHIFT + G** in following window paste this `~/Library/Ap
 
 that is a config folder that contain all blender configurations. This folder can be saved as a backup
 
+### Blender Batch Rename Win\MacOS Tip
+
+select your objects\bones\ets in the Outliner, Posemode or 3D Viewport, then press **Ctrl + F2(WIN)/CMD + F2** (or go to `Edit > Batch Rename`)
+
 ---
 
 ## 🔵 Plasticity
