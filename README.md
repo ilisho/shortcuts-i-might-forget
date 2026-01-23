@@ -12,6 +12,7 @@ A compact collection of useful shortcuts, tips, and workflows for daily producti
 - [DaVinci Resolve](#-davinci-resolve)
 - [ComfyUI](#-comfyui)
 - [Windows](#-windows)
+- [MacOS](#-macos)
 - [Command Line (CMD & PowerShell)](#-command-line-cmd--powershell)
 - [Notepad++](#-notepad)
 - [General Tips](#-general-tips)
@@ -148,6 +149,12 @@ select your objects\bones\ets in the Outliner, Posemode or 3D Viewport, then pre
 - **Ctrl + Win + T** — Always on top
 - **Win + Ctrl + Caps Lock** — Enable zoom
 - **Win + Ctrl + Tab** — Draw / sketch mode
+
+---
+
+## 🍏 MacOS
+
+- **Fn + E** — Emoji & symbols panel
 
 ---
 
