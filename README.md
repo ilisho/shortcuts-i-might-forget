@@ -149,6 +149,8 @@ select your objects\bones\ets in the Outliner, Posemode or 3D Viewport, then pre
 - **Ctrl + Win + T** — Always on top
 - **Win + Ctrl + Caps Lock** — Enable zoom
 - **Win + Ctrl + Tab** — Draw / sketch mode
+- **Win + Ctrl + S** — Screen shot
+- **PRNT** — Screen shot
 
 ---
 
