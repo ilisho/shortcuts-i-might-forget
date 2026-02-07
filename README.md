@@ -15,6 +15,7 @@ A compact collection of useful shortcuts, tips, and workflows for daily producti
 - [MacOS](#-macos)
 - [Command Line (CMD & PowerShell)](#-command-line-cmd--powershell)
 - [Notepad++](#-notepad)
+- [VScode](#-vscode)
 - [General Tips](#-general-tips)
 
 ---
@@ -210,6 +211,20 @@ select your objects\bones\ets in the Outliner, Posemode or 3D Viewport, then pre
 
 Enable by default:
 - Settings → Preferences → Editing → Word Wrap
+
+⚠️`NO longer use a Notepad++ i have moved to VScode`⚠️
+
+---
+
+## 🗃️ VScode
+
+- **CTRL + SHIFT + P** — Search bar
+
+Look for settings in search bar:
+- Typw this ">" in the start (exmpl: >customize layout) 
+
+Save UI by default:
+- File → Save workspace as...
 
 ---
 
