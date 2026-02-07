@@ -152,6 +152,7 @@ select your objects\bones\ets in the Outliner, Posemode or 3D Viewport, then pre
 - **Win + Ctrl + Tab** — Draw / sketch mode
 - **Win + Ctrl + S** — Screen shot
 - **PRNT** — Screen shot
+- **CTRL + MMB scroll** - Size of desktop icons (works only when you hover mous on a main desktop)
 
 ---
 
