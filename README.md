@@ -216,7 +216,7 @@ Enable by default:
 
 ---
 
-## 🗃️ VScode
+## 📝 VScode
 
 - **CTRL + SHIFT + P** — Search bar
 
