@@ -222,10 +222,13 @@ Enable by default:
 - **CTRL + SHIFT + P** — Search bar
 
 Look for settings in search bar:
-- Typw this ">" in the start (exmpl: >customize layout) 
+- Typw this `>` in the start (exmpl: >customize layout) 
 
 Save UI by default:
 - File → Save workspace as...
+
+to use Comment Anchors:
+- type `//` in the beginning of the line and select prefered one from the drop down list.
 
 ---
 
