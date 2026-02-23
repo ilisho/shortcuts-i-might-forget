@@ -66,6 +66,11 @@ A compact collection of useful shortcuts, tips, and workflows for daily producti
 - **Ctrl + A** — Adjust skin radius scale
 - **Alt + S** — Smooth skin result
 
+### Subdive Modifier
+
+- place before Armature Modifier - lumpy mesh 😶‍🌫️
+- place after Armature Modifier - smooth mesh 👍
+
 ### Blender Baking Tip
 
 To bake from high-poly to low-poly with different UVs:
