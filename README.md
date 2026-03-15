@@ -51,6 +51,14 @@ A compact collection of useful shortcuts, tips, and workflows for daily producti
 
 - **Ctrl + Alt + C** — Copy attribute (Object / Pose) (This is a custom shortcut I use to preserve Ctrl + C for standard copy, while still being able to use the Copy Attributes Menu add-on. Since the add-on uses the same shortcut by default, I reassigned it to Ctrl + Alt + C.)
 
+### Bone Edit Mode
+
+- **ALT + LMB** — Select one bone from overlapping bones
+`Shows a list of bones when several overlap; choose the specific bone you want`
+
+- **SHIFT + ALT + LMB** — Add one bone from overlapping bones to selection
+`Shows the same list, but the chosen bone is added to the current selection without deselecting others`
+
 ### UV Editor
 
 - **Ctrl + B** — Create custom packing region  
