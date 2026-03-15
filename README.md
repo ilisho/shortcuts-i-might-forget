@@ -173,6 +173,8 @@ select your objects\bones\ets in the Outliner, Posemode or 3D Viewport, then pre
 
 - **Fn + E** — Emoji & symbols panel
 
+[Blender MacOS location Tip](#-blender-macos-location-tip)  `config folder that contain all blender configurations for backup`
+
 ---
 
 ## 💻 Command Line (CMD & PowerShell)
