@@ -234,7 +234,7 @@ Enable by default:
 
 ## 📝 VScode
 
-- **ALT + Z** Enable Word Wrap
+- **ALT + Z** — Enable Word Wrap
 
 - **CTRL + SHIFT + P** — Search bar
 
