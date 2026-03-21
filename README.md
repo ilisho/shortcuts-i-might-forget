@@ -237,7 +237,7 @@ Enable by default:
 - **CTRL + SHIFT + P** — Search bar
 
 Look for settings in search bar:
-- Typw this `>` in the start (exmpl: >customize layout) 
+- Type this `>` in the start (exmpl: >customize layout) 
 
 Save UI by default:
 - File → Save workspace as...
