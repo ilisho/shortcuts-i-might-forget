@@ -79,6 +79,19 @@ A compact collection of useful shortcuts, tips, and workflows for daily producti
 - place before Armature Modifier - lumpy mesh 😶‍🌫️
 - place after Armature Modifier - smooth mesh 👍
 
+### Sculpt
+
+- **Alt + E** — Brush Draw Method Menu
+Opens the menu to select the brush stroke method (replaces the default Spacebar shortcut).
+
+How to use the Curve stroke method:
+
+1. `Draw the Curve: Hold Ctrl + RMB (Right Mouse Button) to draw and place curve points. (Note: This only works in the 3D Perspective viewport).`
+
+2. `Apply the Stroke: Press Enter to draw the brush texture along the curve.`
+
+3. `Clear the Curve: To delete the curve points when finished, press A to select all points, then press X to delete them.`
+
 ### Blender Baking Tip
 
 To bake from high-poly to low-poly with different UVs:
